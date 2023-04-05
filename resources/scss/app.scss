@@ -1,1 +1,13 @@
 @import "./partials/bootstrap_loader.scss";
+
+.jumbotron {
+    min-height: 100vh;
+}
+img {
+    max-height: 150px;
+}
+
+.card {
+    color: white;
+    background-color: purple;
+}
